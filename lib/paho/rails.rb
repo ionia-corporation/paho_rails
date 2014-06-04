@@ -2,6 +2,7 @@ require "paho/rails/version"
 
 module Paho
   module Rails
-    # Your code goes here...
+    class Engine  ::Rails::Engine
+    end
   end
 end
