@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'paho-rails'
+    gem 'paho-rails', github: 'lmhsjackson/paho-rails'
 
 And then execute:
 
