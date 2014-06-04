@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Paho::Rails::VERSION
   spec.authors       = ["Jose Piccioni"]
   spec.email         = ["josepiccioni@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{This gem adds paho to rails}
+  spec.description   = %q{Longer desc later}
   spec.homepage      = ""
   spec.license       = "MIT"
 
