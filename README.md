@@ -8,7 +8,7 @@ Paho is a javascript library to hanle MQTT, a light-weight publish/subscribe mes
 
 Add this line to your application's Gemfile:
 
-    gem 'paho-rails', github: 'lmhsjackson/paho-rails'
+    gem 'paho-rails'
 
 And then execute:
 
