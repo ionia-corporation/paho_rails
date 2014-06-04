@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jose Piccioni"]
   spec.email         = ["josepiccioni@gmail.com"]
   spec.summary       = %q{This gem adds paho to rails}
-  spec.description   = %q{Longer desc later}
+  spec.description   = %q{This is a simple asset gem to add Paho library to rails.\n Paho is a javascript library to hanle MQTT, a light-weight publish/subscribe messaging protocol.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
