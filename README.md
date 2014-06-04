@@ -1,6 +1,8 @@
 # Paho::Rails
 
-TODO: Write a gem description
+This is a simple asset gem to add Paho library to rails.
+
+Paho is a javascript library to hanle MQTT, a light-weight publish/subscribe messaging protocol.
 
 ## Installation
 
@@ -18,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add '//= require paho' to your application.js file.
 
 ## Contributing
 
