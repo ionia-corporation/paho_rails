@@ -1,8 +1,8 @@
 [![Version     ](https://img.shields.io/gem/v/paho-rails.svg)](https://rubygems.org/gems/paho-rails)
-[![Dependency Status](https://gemnasium.com/ionia-corporation/paho-rails.svg)](https://gemnasium.com/ionia-corporation/paho-rails)
-[![Code Climate](https://codeclimate.com/github/ionia-corporation/paho-rails.png)](https://codeclimate.com/github/ionia-corporation/paho-rails)
-[![Build Status](https://img.shields.io/travis/ionia-corporation/paho-rails/master.svg)](https://travis-ci.org/ionia-corporation/paho-rails)
-[![Coverage    ](https://img.shields.io/codeclimate/coverage/github/ionia-corporation/paho-rails.svg)](https://codeclimate.com/github/ionia-corporation/paho-rails)
+[![Dependency Status](https://gemnasium.com/ionia-corporation/paho_rails.svg)](https://gemnasium.com/ionia-corporation/paho_rails)
+[![Code Climate](https://codeclimate.com/github/ionia-corporation/paho_rails.png)](https://codeclimate.com/github/ionia-corporation/paho_rails)
+[![Build Status](https://img.shields.io/travis/ionia-corporation/paho_rails/master.svg)](https://travis-ci.org/ionia-corporation/paho_rails)
+[![Coverage    ](https://img.shields.io/codeclimate/coverage/github/ionia-corporation/paho_rails.svg)](https://codeclimate.com/github/ionia-corporation/paho_rails)
 
 # Paho::Rails
 
